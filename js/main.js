@@ -9,4 +9,7 @@ form.addEventListener("submit", () => {
 function criaElemento(nome, quantidade) {
      console.log(nome)
      console.log(quantidade)
+
+     const novoItem = document.createElement('li')
+         novoItem.class
 }
